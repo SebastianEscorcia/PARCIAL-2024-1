@@ -1,0 +1,7 @@
+C:\Users\elstr\Downloads\Grupos\Grupos\Parcial\obj\Debug\Parcial.csproj.AssemblyReference.cache
+C:\Users\elstr\Downloads\Grupos\Grupos\Parcial\obj\Debug\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\elstr\Downloads\Grupos\Grupos\Parcial\bin\Debug\Parcial.exe.config
+C:\Users\elstr\Downloads\Grupos\Grupos\Parcial\bin\Debug\Parcial.exe
+C:\Users\elstr\Downloads\Grupos\Grupos\Parcial\bin\Debug\Parcial.pdb
+C:\Users\elstr\Downloads\Grupos\Grupos\Parcial\obj\Debug\Parcial.exe
+C:\Users\elstr\Downloads\Grupos\Grupos\Parcial\obj\Debug\Parcial.pdb
